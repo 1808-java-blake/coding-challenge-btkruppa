@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/btkruppa/coding-challenge#readme",
   "dependencies": {
-    "jest": "^23.5.0"
+    "jest": "^23.6.0"
   }
 }
